@@ -17,6 +17,7 @@ Navigate to the project directory
 ![image](gradio2.png)
 
 Set up a virtual environment (optional but recommended)
+
 ![image](gradio3.png)
 
 Install the required dependencies
