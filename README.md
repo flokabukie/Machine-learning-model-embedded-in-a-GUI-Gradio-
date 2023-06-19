@@ -9,6 +9,7 @@ One of the best ways to share your machine learning model, API, or data science 
 
 ### ***Installation**
 Clone the repository:
+
 ![image](gradio1.png)
 
 Navigate to the project directory
