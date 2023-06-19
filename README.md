@@ -7,7 +7,7 @@ Welcome to the "Embedding a Machine Learning Model in Gradio" repository! This p
 Using Gradio to deploy a classification model for customer churn in a Telco.
 One of the best ways to share your machine learning model, API, or data science workflow with others is to create an interactive app that allows your users or colleagues to try out the demo in their browsers.
 
-### ***Installation**
+### **Installation**
 Clone the repository:
 
 ![image](gradio1.png)
