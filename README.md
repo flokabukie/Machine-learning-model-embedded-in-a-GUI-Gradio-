@@ -13,6 +13,7 @@ Clone the repository:
 ![image](gradio1.png)
 
 Navigate to the project directory
+
 ![image](gradio2.png)
 
 Set up a virtual environment (optional but recommended)
