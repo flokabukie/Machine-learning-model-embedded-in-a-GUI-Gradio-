@@ -21,6 +21,7 @@ Set up a virtual environment (optional but recommended)
 ![image](gradio3.png)
 
 Install the required dependencies
+
 ![image](gradio4.png)
 
 Replace model.pkl with your own trained machine learning model file.
