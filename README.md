@@ -31,6 +31,7 @@ Modify the predict function in app.py to utilize your model for making predictio
 Customize the UI components in app.py using Gradio's intuitive API. You can adjust the layout, appearance, and interaction of the interface to suit your needs.
 
 Start the Gradio server
+
 ![image](gradio5.png)
 
 
