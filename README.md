@@ -44,26 +44,18 @@ Find below the link to a detailed article on the Customer Churn Predictive Model
 https://medium.com/@florentia.teye/customer-churn-predictive-model-using-gradio-37c7f723592
  
  ## Author
- Name: Florentia Teye
+ **Florentia Teye**
 
-GitHub: [https://github.com/flokabukie)
+Florentia Teye is a Data Scientist with experience in data analysis and machine learning. She has a Bachelor's of Education degree in Mathematics and has worked on several open-source projects. In her free time, she enjoys teaching, researching new niches and writing. If you have any questions or suggestions, feel free to reach out to her on GitHub or LinkedIn.
 
-LinkedIn: Florentia Teye
+LinkedIn:
 
-Email: florentiateye@gmail.com florentia.teye@azubiafrica.org
+[![Alt text](image.png)](https://www.linkedin.com/in/florentia-teye-75270a191/)
 
-
- Name: Florentia Teye
-
-GitHub: [https://github.com/flokabukie)
-
-LinkedIn: Florentia Teye
-
-Email: florentiateye@gmail.com florentia.teye@azubiafrica.org
+Email: florentiateye@gmail.com 
 
 
 
  ![image](signature.png)
 
 
-Florentia Teye is a Data Scientist with experience in data analysis and machine learning. She has a Bachelor's of Education degree in Mathematics and has worked on several open-source projects. In her free time, she enjoys teaching, researching new niches and writing. If you have any questions or suggestions, feel free to reach out to her on GitHub or LinkedIn.
